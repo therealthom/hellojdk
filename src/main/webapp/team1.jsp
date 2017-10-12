@@ -13,5 +13,4 @@
     </head>
     <body>
         <h1>TEAM 1</h1>
-    </body>
 </html>
